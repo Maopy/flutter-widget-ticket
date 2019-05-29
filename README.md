@@ -4,6 +4,8 @@
 
 A new Flutter package project.
 
+![preview](preview.png)
+
 ## Getting Started
 
 ### Add dependency to pubspec.yaml
