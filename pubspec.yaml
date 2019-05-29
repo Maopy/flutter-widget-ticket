@@ -1,6 +1,6 @@
 name: fw_ticket
 description: A Flutter ticket UI widget.
-version: 0.0.2
+version: 0.1.0
 author: Maopy <maopy920208@gmail.com>
 homepage: https://github.com/Maopy/flutter-widget-ticket
 
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  clip_shadow: ^0.1.0
+  clip_shadow: ^0.2.0
 
 dev_dependencies:
   flutter_test:
