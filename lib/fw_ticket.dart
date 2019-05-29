@@ -37,7 +37,6 @@ class Ticket extends StatelessWidget {
 
 class _TicketClipper extends CustomClipper<Path> {
   _TicketClipper(this.innerRadius, this.outerRadius);
-//  const defaultRadius = BorderRadius.all(Radius.circular(0.0));
 
   final BorderRadius innerRadius;
 
